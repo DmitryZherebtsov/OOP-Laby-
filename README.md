@@ -1,2 +1,2 @@
-# OOP-Laby-
+# OOP-Laby
 3rd semestr
