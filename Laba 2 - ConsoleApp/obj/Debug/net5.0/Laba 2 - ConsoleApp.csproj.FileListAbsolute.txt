@@ -1,0 +1,16 @@
+F:\Sem 3\Prog Obiektowe Laby\Lab 2\Laba 2 - ConsoleApp\Laba 2 - ConsoleApp\bin\Debug\net5.0\Laba 2 - ConsoleApp.exe
+F:\Sem 3\Prog Obiektowe Laby\Lab 2\Laba 2 - ConsoleApp\Laba 2 - ConsoleApp\bin\Debug\net5.0\Laba 2 - ConsoleApp.deps.json
+F:\Sem 3\Prog Obiektowe Laby\Lab 2\Laba 2 - ConsoleApp\Laba 2 - ConsoleApp\bin\Debug\net5.0\Laba 2 - ConsoleApp.runtimeconfig.json
+F:\Sem 3\Prog Obiektowe Laby\Lab 2\Laba 2 - ConsoleApp\Laba 2 - ConsoleApp\bin\Debug\net5.0\Laba 2 - ConsoleApp.runtimeconfig.dev.json
+F:\Sem 3\Prog Obiektowe Laby\Lab 2\Laba 2 - ConsoleApp\Laba 2 - ConsoleApp\bin\Debug\net5.0\Laba 2 - ConsoleApp.dll
+F:\Sem 3\Prog Obiektowe Laby\Lab 2\Laba 2 - ConsoleApp\Laba 2 - ConsoleApp\bin\Debug\net5.0\ref\Laba 2 - ConsoleApp.dll
+F:\Sem 3\Prog Obiektowe Laby\Lab 2\Laba 2 - ConsoleApp\Laba 2 - ConsoleApp\bin\Debug\net5.0\Laba 2 - ConsoleApp.pdb
+F:\Sem 3\Prog Obiektowe Laby\Lab 2\Laba 2 - ConsoleApp\Laba 2 - ConsoleApp\obj\Debug\net5.0\Laba 2 - ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sem 3\Prog Obiektowe Laby\Lab 2\Laba 2 - ConsoleApp\Laba 2 - ConsoleApp\obj\Debug\net5.0\Laba 2 - ConsoleApp.AssemblyInfoInputs.cache
+F:\Sem 3\Prog Obiektowe Laby\Lab 2\Laba 2 - ConsoleApp\Laba 2 - ConsoleApp\obj\Debug\net5.0\Laba 2 - ConsoleApp.AssemblyInfo.cs
+F:\Sem 3\Prog Obiektowe Laby\Lab 2\Laba 2 - ConsoleApp\Laba 2 - ConsoleApp\obj\Debug\net5.0\Laba 2 - ConsoleApp.csproj.CoreCompileInputs.cache
+F:\Sem 3\Prog Obiektowe Laby\Lab 2\Laba 2 - ConsoleApp\Laba 2 - ConsoleApp\obj\Debug\net5.0\Laba 2 - ConsoleApp.dll
+F:\Sem 3\Prog Obiektowe Laby\Lab 2\Laba 2 - ConsoleApp\Laba 2 - ConsoleApp\obj\Debug\net5.0\ref\Laba 2 - ConsoleApp.dll
+F:\Sem 3\Prog Obiektowe Laby\Lab 2\Laba 2 - ConsoleApp\Laba 2 - ConsoleApp\obj\Debug\net5.0\Laba 2 - ConsoleApp.pdb
+F:\Sem 3\Prog Obiektowe Laby\Lab 2\Laba 2 - ConsoleApp\Laba 2 - ConsoleApp\obj\Debug\net5.0\Laba 2 - ConsoleApp.genruntimeconfig.cache
+F:\Sem 3\Prog Obiektowe Laby\Lab 2\Laba 2 - ConsoleApp\Laba 2 - ConsoleApp\obj\Debug\net5.0\Laba 2 - ConsoleApp.csproj.AssemblyReference.cache
