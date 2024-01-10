@@ -1,0 +1,14 @@
+D:\University\Third Sem\OOP\c#\oopbase\oopbase\bin\Debug\net8.0\oopbase.exe
+D:\University\Third Sem\OOP\c#\oopbase\oopbase\bin\Debug\net8.0\oopbase.deps.json
+D:\University\Third Sem\OOP\c#\oopbase\oopbase\bin\Debug\net8.0\oopbase.runtimeconfig.json
+D:\University\Third Sem\OOP\c#\oopbase\oopbase\bin\Debug\net8.0\oopbase.dll
+D:\University\Third Sem\OOP\c#\oopbase\oopbase\bin\Debug\net8.0\oopbase.pdb
+D:\University\Third Sem\OOP\c#\oopbase\oopbase\obj\Debug\net8.0\oopbase.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Third Sem\OOP\c#\oopbase\oopbase\obj\Debug\net8.0\oopbase.AssemblyInfoInputs.cache
+D:\University\Third Sem\OOP\c#\oopbase\oopbase\obj\Debug\net8.0\oopbase.AssemblyInfo.cs
+D:\University\Third Sem\OOP\c#\oopbase\oopbase\obj\Debug\net8.0\oopbase.csproj.CoreCompileInputs.cache
+D:\University\Third Sem\OOP\c#\oopbase\oopbase\obj\Debug\net8.0\oopbase.dll
+D:\University\Third Sem\OOP\c#\oopbase\oopbase\obj\Debug\net8.0\refint\oopbase.dll
+D:\University\Third Sem\OOP\c#\oopbase\oopbase\obj\Debug\net8.0\oopbase.pdb
+D:\University\Third Sem\OOP\c#\oopbase\oopbase\obj\Debug\net8.0\oopbase.genruntimeconfig.cache
+D:\University\Third Sem\OOP\c#\oopbase\oopbase\obj\Debug\net8.0\ref\oopbase.dll
