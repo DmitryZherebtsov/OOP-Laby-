@@ -1,0 +1,14 @@
+D:\University\Third Sem\OOP\fourConcepts\fourConcepts\bin\Debug\net8.0\fourConcepts.exe
+D:\University\Third Sem\OOP\fourConcepts\fourConcepts\bin\Debug\net8.0\fourConcepts.deps.json
+D:\University\Third Sem\OOP\fourConcepts\fourConcepts\bin\Debug\net8.0\fourConcepts.runtimeconfig.json
+D:\University\Third Sem\OOP\fourConcepts\fourConcepts\bin\Debug\net8.0\fourConcepts.dll
+D:\University\Third Sem\OOP\fourConcepts\fourConcepts\bin\Debug\net8.0\fourConcepts.pdb
+D:\University\Third Sem\OOP\fourConcepts\fourConcepts\obj\Debug\net8.0\fourConcepts.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Third Sem\OOP\fourConcepts\fourConcepts\obj\Debug\net8.0\fourConcepts.AssemblyInfoInputs.cache
+D:\University\Third Sem\OOP\fourConcepts\fourConcepts\obj\Debug\net8.0\fourConcepts.AssemblyInfo.cs
+D:\University\Third Sem\OOP\fourConcepts\fourConcepts\obj\Debug\net8.0\fourConcepts.csproj.CoreCompileInputs.cache
+D:\University\Third Sem\OOP\fourConcepts\fourConcepts\obj\Debug\net8.0\fourConcepts.dll
+D:\University\Third Sem\OOP\fourConcepts\fourConcepts\obj\Debug\net8.0\refint\fourConcepts.dll
+D:\University\Third Sem\OOP\fourConcepts\fourConcepts\obj\Debug\net8.0\fourConcepts.pdb
+D:\University\Third Sem\OOP\fourConcepts\fourConcepts\obj\Debug\net8.0\fourConcepts.genruntimeconfig.cache
+D:\University\Third Sem\OOP\fourConcepts\fourConcepts\obj\Debug\net8.0\ref\fourConcepts.dll
